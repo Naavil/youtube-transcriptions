@@ -1,0 +1,376 @@
+ [ Silence ]
+ Welcome to the Royal Swedish Academy of Sciences and this press conference where we will present this year's Nobel Prize in Physics.
+ We will keep to our tradition and begin in Swedish and then continue in English.
+ And you are of course welcome to ask questions in either language later on.
+ [ Speaking in German ]
+ [ Speaking in German ]
+ My name is Hans Elegrin.
+ I am the Secretary General of the Royal Swedish Academy of Sciences.
+ To my right is Professor Iava Olson, Chair of the Nobel Committee for Physics.
+ And to my left, Professor Mats Lorschon, Member of the Nobel Committee for Physics and one of the experts in this field.
+ [ Speaking in German ]
+ This year's prize is about electrons in flashes of light.
+ [ Speaking in German ]
+ [ Speaking in German ]
+ For experimental
+ [ Speaking in German ]
+ The Royal Swedish Academy of Sciences has decided to award the 2023 Nobel Prize in Physics in equal shares to Pierre Agustini, the Ohio State University, USA.
+ [ Speaking in German ]
+ And Leir, Lund University Sweden, for experimental methods that generate at the second pulses of light for the study of electron dynamics in matter.
+ [ Speaking in German ]
+ Thank you. So this is about after second physics.
+ The ability to generate after second pulses of light has opened the door on a tiny, extremely tiny time scale.
+ And it's also opened the door to the world of electrons.
+ Back in 1925, Werner Heisenberg argued that this world cannot be seen.
+ Thanks to after second physics, this is now starting to change and we are starting to explore this world.
+ Let's take one second, which is the time of a hot beat.
+ If we now divide that by 1000, and we divide it again by 1000, divided again by 1000, divided again by 1000.
+ And again by 1000.
+ Now we are at the time that it takes the atom to move.
+ So then if we divide it by 1000 times more, we move into the world of the electrons.
+ And that is the at second physics.
+ So at second science allows us to address fundamental questions, such as the time scale or the photoelectric effect,
+ for which Einstein, Albert Einstein received the Nobel Prize in physics in 1921.
+ We can also study charge transfer processes in materials and in molecules.
+ Now this means that we are able to develop potential important applications for future in areas such as catalysis, electronics and medicine.
+ This year's prize honors the pioneering experimental work of Pierre Agustini, Ferranz Krause and Anne Loulier.
+ They discovered that it is possible to generate these after second pulses.
+ They developed methods to measure the duration of the pulses, and they also developed techniques for generation, both on pulse trains and on isolated individual pulses, to be used for fundamental research, but also future applications.
+ Thank you Professor Olson.
+ Now Professor Mats Lorschron will give a more detailed presentation of the prize.
+ Thank you.
+ Yes, this year's Nobel Prize in physics is about science at the time scale of after seconds.
+ And what you see here is an after second related to one second, which is approximately a heartbeat.
+ And the ratio of one second to an after second is the same as the ratio of the age of the universe expressed in seconds to one second.
+ And as Professor Olson explained, we are now in the world of electrons.
+ And let me remind you, electrons are not only working in gadgets like this.
+ They are working in your full body, chemical reactions are controlled by electrons, and they move on a time scale of after seconds.
+ This is the beginning. This was an experiment carried out in Paris, Acclia, in 1987 by Nobel Laureate Alire and co-workers.
+ And what they did here was they took a very powerful infrared laser and shine it through a gas yet of neon or argon or xenon.
+ And then they looked at the photons coming out from this interaction with a spectrometer, as you can see here.
+ So this is actually the original drawing of their experiment in the 1980s.
+ So what did they see?
+ Well, they saw a number of -- the laser has a base frequency.
+ It's about 1,000-millimeter in wavelength.
+ And they saw overtones of this frequency, a large number of overtones.
+ And the overtones first fell off quite rapidly and then came along plateau and then a cat off.
+ So the question was, what is generating this plateau and how can it be exploited?
+ And Alire in particular worked for a decade with different theoretical and experimental methods to understand what this plateau can be used for and how to explain it.
+ So in order to generate various short passes, you need all these different overtones.
+ And I will illustrate this now by assuming that we have a number of light.
+ We have light with different frequencies.
+ As you can see here, light with different frequencies.
+ And if we now let these different frequencies interact and interfere, what can happen is that they interfere in such a way that at certain points we create and interact with different frequencies.
+ That at certain points we create an amplification, whereas at many other points there is destructive interference, nothing happens.
+ And what you get is a palace train of auto-second palaces.
+ So the trick is really to sum up many different overtones that gives you the bandwidth.
+ But that's for one atom.
+ Now we are talking about several atoms, and several atoms must work together in phase, otherwise it won't work.
+ And it's the same with the synch with the orchestra.
+ If each member of the orchestra would be playing whatever they want, the audience would just experience noise.
+ But if they play in sync, and of course you have the conductor making them play in sync, then we get music.
+ And it's the same with the atoms.
+ They have to work in sync. And this was figured out by Anludier and others how to do this.
+ Here is an example of an experiment, auto-second experiment.
+ And this gives you a little bit of a feeling for the length scale of such an experiment.
+ It's not an enormous big experiment.
+ And what you see down here in the corner is laser light.
+ Let's say infrared laser light coming in.
+ The laser beam is divided in two parts. One part goes to the left and then into the gas, yet where you produce auto-second policies.
+ The other part goes into a delay line so that you can shift the time difference between the auto-second policies and the infrared policies.
+ And then you combine them on a mirror and send them into your experiment.
+ And out comes electrons that you can observe.
+ And this was the technique, or similar technique, that was developed by Nobel laureate Pierre Agustini.
+ He developed something called the rabbit technique.
+ He could show that he could not only produce auto-second policies, but he could also measure the width.
+ And they turned out to be 250 auto-seconds.
+ And this experiment was done in Paris, Sartreya in 2001.
+ Almost at the same time, the other laureate, Fieran Scrouse, developed a streaking technique which is a little bit different, but similar principle.
+ And he produced so-called isolated auto-second policies, 650 in pulse width.
+ And this was done in Vienna in 2001.
+ And these two platforms are the existing platforms in auto-second physics up to this day.
+ Of course, the experiments have been improved much, but it's basically these two different techniques that are used.
+ And the choice, rabbit, which stands for reconstruction of auto-second beating by interference of two-foot on transitions.
+ So depending on the application, you decide, do you want to use a pulse train with a rabbit technique, or do you want to use isolated pulses with the streaking technique?
+ And what you can see here is that you have the auto-second policies, overlap with infrared, probe pulses, atom ionization, the electron coming out, and you get a signal,
+ which is a replica of an auto-second pulse.
+ So by measuring this electronic signal, you can get an understanding of what is the pulse width.
+ What can you do?
+ Well, here is an example of how one can start the photo emission delay.
+ The question here arises.
+ Let's take a neon atom.
+ Let's expose it to an auto-second pulse.
+ And the question is, if the electron is in the two-west more tightly bound in the atom, or if it's more loosely bound, like a 2p electron,
+ do they come out with the same time?
+ No, they don't.
+ It was actually possible to figure out, by doing these experiments, that one electron goes faster out by 20 auto-seconds,
+ and incredibly short time, that was actually possible to measure.
+ And this was an experiment down in London.
+ So let's go to applications, because I know that you will ask about that.
+ With the auto-second physics and science, we have come to the point where we can have localization control of electrons in a molecule.
+ This is a new field that can be called out-to-chemistry, where you can locate electrons in a molecule, and you can figure out what they are doing, jumping around.
+ Ultra-fords switching from an insulator to a conductor.
+ This is a dielectric material.
+ For example, silicon dioxide.
+ You can switch with an out-to-second pulse between a situation where this dielectric is not conducting.
+ It's an insulator.
+ But in one femtosecond, you increase the conductivity by 18 orders of magnitude.
+ And of course, this is an important field, because it gives you possibilities to develop very fast electronics based on all these short pulses.
+ The final example, which is now being pursued by Ferran's Krauss in Now Engaging, is a molecular fingerprinting applied to biological samples.
+ So what is this?
+ Well, you have a blood sample.
+ You expose it to a very short infrared pulse.
+ This infrared pulse will vibrationally excite the molecules in the blood sample.
+ And there are literally thousands of molecules in this blood sample.
+ And then they emit infrared and you detect this.
+ And by analyzing what you detect, you can, and doing this with auto-second precision,
+ you can draw conclusions whether there has been any change in the blood sample.
+ So the idea here is not to analyze all the thousand molecules,
+ but to find small minute changes.
+ And by doing this, there is the hope in the future that you will be able to capture
+ whether a person has developed, for example, lung cancer in the bee,
+ so that you have a very sensitive method, and if you can diagnose cancer
+ at a very early stage, treatment will be much more successful.
+ So this was just a few examples, and I'm sure that you have a chance to ask the Nobel laureate afterwards.
+ So I thank you now for my presentation, and we have them here again.
+ Pierre-Gostien, Férence Kraus, and Anner Leir,
+ for experimental methods that generate auto-second pulses of light
+ for the study of electron dynamics in materials in matter.
+ Okay, thank you.
+ Thank you, Professor Lauschon.
+ Now we shall see if we have one of the low rates online.
+ Professor Anne Leir, are you with us on phone from Lund?
+ Hello, yes. Can you hear me?
+ I can hear you. Good day, Professor Leir.
+ Hello. Can you hear us?
+ Yes.
+ Yeah. Please accept our warmest congratulations for receiving the Nobel Prize in physics 2023.
+ Thank you very much. It's just fantastic.
+ Thank you a lot.
+ You were in the middle of something when we reached your own phone an hour ago. Can you explain?
+ I was teaching. So, yes. So I picked the phone when I guess you ring the third time or fourth time during the pause.
+ And then the last half hour of my lecture was a bit difficult to do, but...
+ Yes. Yes.
+ Yeah, it was fascinating. We had a lot of information to provide you with Professor, but you were so keen to go back to your students.
+ So we had to make a short call. I think it's fantastic to see how you combine word-leading research with being a very active and important teacher.
+ But teaching is very, very important. For me, it's very important. And it's a nice compliment.
+ Sorry, I am not very good at speaking, but that's because I am very touched at the moment.
+ Yeah, that's understandable. I'm sitting here in the session who will let the Royal Swedish Academy of Sciences.
+ Here we are casting a live from the press conference. There are many journalists here, both from Sweden and from the international press.
+ Are you ready to take some questions from them?
+ Yes, of course.
+ Okay. Who would like to start? Thomas von Heine.
+ Thomas von Heine S. Wieder. Guillard, this arm.
+ Thanks, Mr. Meke.
+ Congratulations. We heard something about practical applications already.
+ In your words, what's the most important possibilities ahead from this technique?
+ In my work, I see two things. One is very fundamental and which is to really understand and look at electrons and look at their properties.
+ But the second one is much more practical and it's coming.
+ This radiation that we produce is also useful for the semiconductor industry as the imaging tool.
+ So this is also coming with practical application.
+ Yes, please.
+ Congratulations, Anne.
+ Thank you very much.
+ I'm from the University of Amsterdam, PhD student at the Department of Physics in Lund.
+ I look forward to congratulating you in person.
+ I'm curious, what does this prize mean to you?
+ Hello, sorry to talk.
+ I can hear you very touched and what does this prize mean to you?
+ It means a lot. It means really a lot. This is the most prestigious prize and I'm so happy to get this prize.
+ It's incredible.
+ As you know, there are not so many women that get this prize. So it's very, very special.
+ Yes, of course. Thank you.
+ Tiwe Firan?
+ Hi, I'm Anne-Marie-Nell-On TV4.
+ Yeah, I think you're the fifth woman if I correct.
+ Closer, closer.
+ I think you're the fifth woman if I have calculated or right here. Congratulations.
+ My question is that you could use this technique to locate electrons, but according to Heisenberg's uncertainty principle, you can't really say where an electron is.
+ Of course, it can be somewhere in a cloud, but you can't really tell where it is in this cloud around the atom or can you?
+ No, we cannot. We are certainly not violating Heisenberg's principle, but for example, you can see whether it's on one side of a molecule or on the other, but it's still very blurry.
+ I mean, again, we are within quantum mechanics.
+ So we are not, you should not have this image where we follow a point particle going around an atom. This is not what we are doing, but so we are within quantum mechanics, but we are getting new information about the electrons.
+ Okay, so what you can actually see is how a molecule where the charge is, if the electron is in like...
+ This is the goal. Yes. This is the goal. I can tell you another, I think, image is in this type of process that we are looking at.
+ The electrons are much more like waves, like water waves, like done particles.
+ And what we try to measure with our technique is the position of the crest of the wave. So this is another, maybe image you can have.
+ And what we try to get information on is the dynamics of the electron. What is the time it takes for electron to move and, for example, to go away.
+ That's our goal.
+ Thank you. That was a very good question. This is a dedicated press here.
+ Now, obviously, this is a prize that rewards fundamental research. People are interested in theoretical applications, of course.
+ But could you maybe address the importance of this fundamental research and how important it is to see potentially public institutions
+ being investing funds into this fundamental research when there is indeed lots of interest, maybe potentially too much interest in practical research?
+ If you could maybe address that point.
+ Well, I think this is a typical example of research, which is very fundamental.
+ We have been working in this field during 30 years.
+ Only now you begin to have application in sight.
+ So basic research is really important and has to be funded by different institutions or agencies because it takes time.
+ It takes time to arrive at a point where we start to see application for mid-seam, for semiconductor industry, for chemistry.
+ But all the drive for in this research has been extremely fundamental.
+ Can we create short pass? Are these pulses short? And then what can we do with it?
+ Yes. Please.
+ This I mentioned already, there are applications coming up in the industry, in chemistry, in medicine.
+ But yes.
+ We have one more question here.
+ From Nordic Chinese times. And I wonder the potential of this total second technology in studying photo synthesis or how photo pigments working.
+ The dream is to be, this radiation is talking to the electrons.
+ And when you have a chemical reaction, which is induced by absorption of light, like in photo synthesis, this is always started by some electron transition.
+ And then you have things that happen in the molecules.
+ But the beginning is driven by some electronic transition.
+ So the dream, if you want to holy grain of this part of our research, is to be able to control this initial time for a molecular reaction.
+ And if you can do that, maybe you can control some reaction and why not have some more insight into the process of photo synthesis. But this is in the future.
+ Okay. Is there someone more? A final question from here.
+ This is Simone Campanelopo, a dog who has needed that. So you have been studying this field since the 1980s. At what point did you realize what a breakthrough it was?
+ Did you do that land already from the experiments in the 80s or when did you come to that conclusion?
+ I would say I was personally fascinated by this field from this start. And this is why I continued with it during many, many years.
+ But I think there has been several steps. And one important step was by my two colleagues, Pierre Agosthenia and Ferran Cross in 2001, where they really showed that we had very, very short light particles.
+ So this was an important step that really showed to the whole community that yes, we could have fundamental applications.
+ Very interesting. But personally has been completely passionate by this field from the end of the 80s. And what is very interesting, it's really really slow field. It's difficult experiments.
+ There is progress all the time. And we need lasers to produce this radiation. Lasers are progressing. So it's really a field that has been progressing today, which makes it very interesting.
+ Thank you very much, Professor Hillier. Once again, our warmest congratulations.
+ Thank you very much. We look forward to meet you in Stockholm here in December for the Nobel Prize ceremony.
+ Yes. So bye now for now.
+ Bye.
+ Time is almost to running out. But we may have time for one or two questions to the committee, if you would like to ask the members something.
+ Yes, please.
+ I'm Shwifijian Akse-Song from Green Post as a very non-scientific person. I feel lost actually.
+ So I ask you to use simple words to explain a little more why they won this prize.
+ Please.
+ Thank you.
+ Yes, it's a good question, of course. You will have access to the popular science report about this prize.
+ But I think that in general you can say that in physics, when you manage to break through new frontiers, you will learn a lot of new things.
+ And of course, it's always the first important step is to try to understand the processes and can we then master them.
+ And once you are in this situation where you both understand and you have the technology to master these techniques,
+ then you can start thinking about the applications. And we are right now in that situation, right now.
+ So, for example, ten years ago, I think it was just too early to think about advanced applications.
+ The researchers were still in the process of trying to figure out how everything worked and how to master it.
+ Now, of course, there has been a development of laser technology in recent years, so that lasers that required many people to operate.
+ Now it's more...
+ Have a nice day.
+ much more user friendly, which means that many more research groups can enter these fields
+ because it's just not so technically difficult to operate the lysors anymore.
+ There's time for one final question from the journalists here, please.
+ Thank you, excuse me.
+ So David Keaton again from the Associated Press.
+ Have you managed to contact all of the winners and how have they responded if so?
+ What was their reaction if you managed to speak to them this morning?
+ Well, you heard the reaction of Professor Hulier.
+ She is thrilled, of course, by the message.
+ We got hold of one of the other law rates, and he was equally, and too, is the obstacle,
+ of course, about this.
+ You will find out.
+ Mm.
+ I think time has run and run out.
+ Thank you for your interest.
+ We hope to see you again tomorrow when we will announce the Nobel Prize in Chemistry.
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ Mr. Matt Slosham, a professor and member of the Nobel Prize Physics Committee, could you please explain this year's prize?
+ >> Yes, I just first want to say that in order to study very fast processes, you'll need something which is similar to fast.
+ I mean, I think everybody knows this.
+ If you want to take picture with the camera and you're trying to take a picture of something moving very fast, you have to have the shutter very quick.
+ And it's the same now in the physics world.
+ The electrons are very fast.
+ And the electrons are really the workhorse everywhere.
+ Our daughters, the electrons are controlling all chemical reactions.
+ They are of course also very important being gadgets like this that you are forced to have.
+ And so once you can control and understand electrons, you have taken a very big step forward.
+ And what these three laureates have been breaking through the fundamental barrier in measuring time.
+ The fundamental thing is because if you want to produce light, it's very short.
+ And this is a very big gem.
+ There is a certain limit to how short light you produce.
+ You have to go to short environments and this is exactly what they have done most.
+ Once you have this technique built in all of it, you can start first to think about fundamental processes.
+ You take an atom and then you ask yourself, if I remove an electron, depending on how time is bound,
+ would it be a negative with the same speed in the panel of how time is bound?
+ And the answer is no.
+ There is a time difference.
+ So it is the outer second.
+ The outer second is related to the second with the same ratio as the second is related to the age of the universe.
+ That's mind blowing.
+ And how will this new research affect our lives, do you think?
+ For the moment, I don't think it will affect it very much, but I think in the future.
+ And the examples that we talked about, the press conference here in AM mentioned,
+ in the conductor industry, we have the negative hand-printing,
+ I think that it's present in being developed very successfully in gourishing in Germany by a month and a month and a month.
+ And what is that good for?
+ What is that good for? A fingerprint?
+ The molecular fingerprinting is about finding out if you have a change in your blood center.
+ Because that change, very minor change, very sensitive.
+ If you can find these changes and identify to be caused by disease, that's a big advantage,
+ because this means that you have a sensitive method that can detect the disease at a very early stage, for example lung cancer.
+ So this is something you can do with the after seconds.
+ Yes, you have the after second technology, which gives you the sensitivity, correct?
+ Could you tell us something about this year's, Laurier, something personal?
+ Yes, I know of course in the year, because we are colleagues in physics, it's not a big community in Sweden, so we never collaborated.
+ But I remember very distinctly a visit I did to Harvard. I was there for a conference, she was there for a different conference,
+ since we just met on the street and she said, "We are now very soon to break through and produce auto second tosses."
+ You want to hear her?
+ Yes.
+ What did she say when she got the call?
+ When she got the call? Well, yes, she was busy teaching.
+ So first we couldn't get hold of her, so we had to call her husband, he was also a physicist, and he explained to us,
+ "No, she is teaching, she will have a break at 11 o'clock or something."
+ And then we could read Shirley, but then she had to go back to teaching again, so we couldn't make it a very long call.
+ She was very dedicated to teaching and she doesn't leave students just like that.
+ Three laureates to this year's physics prize, if you would say yourself in 30 seconds, what is the most exciting thing about this year's prize to you?
+ To me, I think the most exciting thing is that over a very long period have been working very hard, both to understand the fundamental physics
+ and then to develop the technology to break through and to really open the world of electrons, really the very course for all of us, which we never had access to earlier.
+ Now we have access. That's fantastic.
+ We can study electron dynamics in add-ons molecules and in condensed matter and understand in a totally different way how things work.
+ A new world.
+ It's definitely a new world. Definitely a new world.
+ Thank you so much, Professor Manslorschon, a member of the Nobel Prize Physics Committee.
+ Thank you so much.
+ Thank you.
+ Thank you.
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]
+ [BLANK_AUDIO]

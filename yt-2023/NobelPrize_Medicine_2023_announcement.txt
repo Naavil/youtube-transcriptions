@@ -1,0 +1,445 @@
+ Ladies and gentlemen, good morning and welcome to Nobel Forum for the
+ announcement of this year's Nobel Prize in Physiology or Medicine. My name is
+ Thomas Perlman and I'm the Secretary General of the Nobel Assembly. I will
+ first read the announcement in Swedish followed by English. We will then present
+ the background to the prize and open up for questions. Nobel for Shambling and
+ The annual Caroleen-Escon Institute,
+ the total fee of the local services that are available
+ in the CDC under little child's health,
+ with COVID-19 and possibly no drug.
+ The COVID-19 vaccine was aminute early
+ but it was not worth reading.
+ It was on the rise of a very long time,
+ but it was not a very long time ago.
+ It was the first time that the NUTO,
+ the other musical events that were ongoing.
+ The NUTO has today decided toward the 2023 Nobel Prize
+ in Physiology or Medicine jointly to Kathleen Carrico
+ and Drew Weisman for their discoveries concerning
+ nucleoside-based modifications that enabled
+ the development of effective mRNA vaccines
+ against COVID-19.
+ Here are the two laureates.
+ Kathleen Carrico was born in 1955 in Solnock in Hungary.
+ She performed her prize-winning studies
+ at the University of Pennsylvania in Philadelphia
+ in the United States.
+ She is currently a professor at Segitz University in Hungary
+ and is also an adjunct professor
+ at the University of Pennsylvania.
+ Drew Weisman was born in 1959 in Lexington, Massachusetts
+ in the United States.
+ He performed his prize-winning research together
+ with Kathleen Carrico at the University of Pennsylvania.
+ We're still active as a professor.
+ I will now turn to Professor Rickard Sandberg,
+ member of the Nobel Committee,
+ who will now describe the discovery.
+ Please, Rickard.
+.
+ - In today's interconnected society,
+ the risk of new pandemics is greater than ever before.
+ When the virus SARS-CoV-2 emerged in late 2019,
+ it rapidly spread across the globe
+ and developed into the devastating COVID-19 pandemic.
+ During the viral infection, the immune system
+ recognizes viral components as foreign
+ and they induce antiviral immune responses,
+ mediated through cells and antibodies.
+ However, this takes time.
+ And meanwhile, the person can develop serious disease.
+ Vaccination strategies have been developed
+ with the purpose of inducing antiviral immune responses
+ that will protect against future infections.
+ For a long time, weekend or inactivated viruses
+ have been used as vaccines.
+ Vaccination programs have been very successful
+ in mitigating many live-threatening diseases,
+ including polio, measles, and yellow fever.
+ With advances in molecular biology,
+ targeted vaccination strategies became feasible
+ by isolating genetic information from the virus,
+ specific viral proteins could be produced
+ and used as vaccines.
+ Examples are highly effective vaccines
+ against the hepatitis B virus and the human papilloma virus.
+ More recently, harmless viral vectors have been used
+ to deliver viral DNA fragments into human cells
+ to make viral proteins and induce an immune response.
+ Examples are the recently developed Ebola vaccines.
+ The targeted strategies have the advantage
+ of not requiring whole viruses,
+ but still they rely on resource-intensive cell culturing
+ for vaccine production.
+ Researchers have therefore long been attracted
+ to the idea of using messenger RNA or mRNA
+ for clinical applications where the mRNA is used
+ as a template for protein synthesis.
+ The production of mRNA does not require
+ large-scale cell culturing and future vaccines
+ based on mRNA had the potential to become scalable,
+ fast, and flexible.
+ In fact, major advances were made in the last decades.
+ Researchers showed already 40 years ago
+ that large amounts of mRNA can be produced without cells,
+ for example, using the T7 in vitro transcription system.
+ Moreover, progress was being made
+ in delivering mRNA into cells
+ using different forms of lipid carriers.
+ But there was a major obstacle to development
+ of mRNA-based clinical applications.
+ When in vitro-produced mRNA was delivered into cells,
+ it resulted in low protein amounts,
+ and additionally, it triggered an inflammatory cytokine response.
+ This year's Nobel Laureates,
+ Kathleen Carrico and Drew Weismann,
+ started working together at the University of Pennsylvania,
+ bringing with them highly complementary expertise.
+ Carrico had a background in RNA biochemistry
+ and a strong vision of RNA-based therapeutics.
+ Weismann had a background in immunology,
+ working with dendritic cells and their role in the genome.
+ And their role in immune surveillance and vaccination.
+ It was clear to them that in vitro-produced mRNA
+ must somehow differ from the mRNA made in human cells,
+ delivering in vitro-produced mRNA into dendritic cells,
+ induced the inflammatory cytokine response,
+ whereas the delivery of human mRNA did not.
+ Using bacterial mRNA, shown on the right side,
+ did also trigger the inflammatory response.
+ Having explored several potential differences in the mRNA,
+ they became interested in nucleoside-based modifications.
+ RNA contains four bases,
+ often abbreviated as AGU, GNC.
+ However, these bases can get further chemically modified
+ within our cells.
+ It was becoming appreciated that base modifications
+ were more prevalent in human RNA compared to RNA in bacteria.
+ Could the lack of base modifications in mRNA-produced in vitro
+ be the critical factor that leads to inflammatory response?
+ In a series of carefully constructed experiments,
+ the carbical advisement used the T7 in vitro system
+ to produce mRNA with various nucleoside-based modifications.
+ Each type of produced mRNA separately introduced into dendritic cells
+ while monitoring the TNF alpha levels,
+ an important inflammatory cytokine.
+ They discovered that mRNA produced with specific base modifications
+ to almost completely abolish TNF alpha secretion.
+ In particular, modifications to the ureidines highlighted
+ on the right side in orange made a large difference.
+ One of the most effective modified bases was pseudoridine,
+ which is a naturally occurring ureidine modification.
+ Whereas in vitro-produced mRNA triggered toal-like receptor activation
+ leading to inflammatory cytokines,
+ mRNA made with pseudoridine did not.
+ So, carbical advisement published their breakthrough discovery in 2005,
+ 15 years before the COVID-19 pandemic.
+ Realizing the importance of their discovery,
+ they next demonstrated that base-modified mRNA resulted in higher protein expression
+ in target cells, both in cell culture and in animals.
+ More protein was made from each delivered mRNA molecule
+ and the loriates carefully dissected the cellular pathways involved.
+ Caricose advisement made fundamental discoveries
+ of the importance of base modifications in mRNA,
+ which eliminated a major obstacle to mRNA-based clinical applications.
+ Building upon this mRNA technology,
+ as well as research by others on stabilized spike protein
+ and mRNA delivery using lipid-nonaparticles,
+ two highly effective mRNA vaccines against COVID-19
+ were developed and approved in record time.
+ Importantly, the two mRNA vaccines had complete substitution of ureidines
+ for a pseudoridine variant in the sequence coding for the spike protein.
+ mRNA vaccines, together with other COVID-19 vaccines,
+ have been administered over 13 billion times.
+ Together, they have saved millions of lives,
+ prevented severe COVID-19, reduced the overall disease burden,
+ and enabled societies to open up again.
+ The successful mRNA vaccines against COVID-19
+ have had a tremendous impact on the interest in mRNA-based technologies.
+ mRNA technologies are now being used to develop vaccines against other infections.
+ The technology may also be used for therapeutic protein delivery
+ and cancer treatment in the hope of further improving human health.
+ Here are the two Nobel laureates again.
+ So this year's Nobel Prize recognizes their basic science discovery
+ that fundamentally changed our understanding of how mRNA interacts with immune system
+ and had a major impact on society during the recent pandemic.
+ Thank you, Richard.
+ So, I would like to open up for questions.
+ We'll of course continue with interviews outside,
+ but if there are any questions.
+ Yes?
+ (inaudible)
+ Yeah, fortunately, I was able to reach both of them.
+ And they were very happy.
+ It was wonderful to talk to them.
+ This year I actually asked if they were surprised,
+ because I suspect that they maybe would not be having received many prizes,
+ but Kathleen Carrico explained that she was so overwhelmed
+ and also put it in context with her situation as a scientist for many years.
+ Ten years ago she told me that she was a Terminator.
+ from her current position and had to move to Germany
+ for another position and without her family and so forth.
+ So it's been a dramatic change in her circumstances
+ and she acknowledged that she was great to talk to her
+ and very happy.
+ Drew Weissman as well, I mean, it was wonderful
+ to talk to him and he was overwhelmed
+ and enormously grateful for this award.
+ So yes, I got hold of them.
+ Drew Weissman just a few minutes before coming down here.
+ Yes.
+ Hello.
+ Yeah, I'm Sifitin Akhsasong from Green Post.
+ I ask a maybe inconvenient question
+ and need your further explanation.
+ Do you really think that it's the vaccine
+ and this COVID-19 pandemic?
+ Thank you.
+ With this question, I would like to introduce our panel here.
+ So I'll first introduce those who are sitting here
+ to the for right is Uleshampe, Professor Uleshampe
+ who's vice chair of the Nobel Committee.
+ And then it's our chair of the Nobel Committee,
+ Professor Gunilla Carlson here at Ulesham
+ and I already introduced Professor Rick El-Sandberg.
+ Perhaps Gunilla, could you respond to that question?
+ Yes, it's of course a very reasonable question.
+ As I think hasn't escaped anyone,
+ this virus is still circulating
+ and there is now many variants that have spread
+ and this is of course how viruses behave.
+ So once it has achieved this sort of level of spread,
+ it's very difficult to stop it completely.
+ But what's important here, I think,
+ is that vaccines could be developed so fast
+ and this was, as we just heard,
+ largely due to improvements in the technology
+ and this basic discovery that allowed this.
+ So I think in terms of saving lives,
+ especially in the early phase of the pandemic,
+ it was very important.
+ Now most people have developed some level of immunity
+ as a result of combined exposures to the virus
+ and to multiple vaccinations.
+ So we're not in, you know,
+ this situation is not as dire as it was a few years ago.
+ - And I have to say, yes.
+ You'll get the microphone is coming here.
+ - Thank you.
+ This is a sunny life weekly from China.
+ So my question is considering the faster proof,
+ the faster approval of mRNA based vaccine against COVID-19.
+ What impact can this year's price have
+ on the authorities to make decision in the future
+ for mRNA based vaccine development?
+ And another question is,
+ do you consider this year's price as a powerful strikeback
+ for the anti-vaccine movement
+ and also for vaccine has in patient?
+ - If will the champion, could you respond to those questions?
+ - If I start with the left part of your question,
+ does this affect the anti-vaxxers and people who are hesitant?
+ And the vexers, I don't know if they will change in any way.
+ But I think giving a Nobel Prize
+ for this COVID-19 vaccine may make
+ hesitant people take the vaccine
+ and be sure that it's very efficient and it's safe.
+ Now we have 13 million tests being done all over the world
+ on people who has not experienced that this is previously.
+ And we know it's very safe and very efficient vaccine.
+ - And the other question was,
+ if it will, or decision toward, will the last authorities?
+ - Well, I think if the FDA and EMA will be faster
+ in a situation like this,
+ I think they made the right decision to build very fast.
+ In other cases, it may be wise to build a bit slower, I think.
+ - Any additional questions? Here's one, yes.
+ - Hello, this is Tysimedia from China.
+ And with the mRNA, we don't know the long-term effect yet.
+ So do you have any concern over that?
+ - Rickard, would you like to respond to that question?
+ - Yes, of course, mRNA vaccines have only been given
+ for a certain amount of time, which begs your question.
+ Having said that, of course, the mRNA vaccine
+ that is given is very transient.
+ And the fact that 13 billion people have gotten the virus,
+ have vaccine virus.
+ And I mean, and the amount of side effects noted today,
+ it is extremely limited.
+ So I don't think it's a major concern.
+ Anyone else wanna add to that?
+ Or that's fine, I guess?
+ - Well, it can't be integrated into the nucleus,
+ into the DNA, and that's, you know, a safety precaution.
+ The adverse effects that's been noted
+ is mostly my carditis, or perin my carditis,
+ mainly affecting young males.
+ But that normally resolves without any long-term effects.
+ - And maybe one could also add that the consequences
+ of having COVID-19 can definitely have long-term health
+ effects, as we know.
+ So one always needs to relate the very minor effects
+ of a vaccine to the severe risks
+ of actually getting the disease.
+ - Yes.
+ - Thank you, David Keaton, Associated Press.
+ Obviously throughout the pandemic COVID-19 pandemic,
+ we saw a very strong anti-vax movement,
+ specifically targeting these new technology vaccines.
+ As a scientific body, as scientists,
+ what must this medical community do
+ to try and breach this gap of trust
+ between the wider audience, the wider public,
+ and the science community to convince people
+ that these are indeed safe.
+ - Yeah, good day, like with you.
+ - I think continuing to communicate how vaccines work.
+ And for example, in the case of COVID-19,
+ people felt that the vaccines were produced
+ or developed very quickly.
+ And that's true because there was a huge need for that.
+ But what these accelerated clinical trials did
+ was not to remove any safety step.
+ It was running things in parallel instead of sequentially.
+ So there was no compromise in terms of the safety measures.
+ And maybe that's not always understood.
+ So of course, communicating how it's done
+ and all of the decades of basic research
+ that's behind this kind of work,
+ that's also not always appreciated by the public.
+ But I think hopefully this price can help highlight
+ some of that because this work hasn't been going on
+ since actually since the 1990s.
+ - Okay, here is one more, here.
+ - Hello, thank you, I'm from Chinese Nordic Time.
+ And I'm happy, actually last year I'm sitting here
+ and I asked the same question.
+ So well, mRNA vaccine will be win the price.
+ But this year it gets a well-deserved price.
+ So I think everyone's happy with this.
+ So the first question is about mRNA vaccine.
+ So is there any like other applications for mRNA vaccine
+ in other diseases like cancer or like infections diseases
+ like this?
+ So could you introduce a bit for the audience?
+ The second one is about long COVID
+ because I think now long COVID impact is really
+ important point for the society.
+ So could you also let us know?
+ - Maybe I'll ask Ganyila to answer the first part
+ of the question and Ulla chimp the latter part.
+ - Okay, so regarding other applications, yes,
+ there's really quite a lot going on right now
+ and this is only going to increase most likely
+ because we now have this increase of safety data
+ on the platform in general.
+ But the main other applications I think we're going to see
+ is of course many other vaccines against infections,
+ particularly perhaps for flu where we need updated vaccines.
+ And that is one of the great advantages with this platform
+ is that it's flexible and fast.
+ So one can update the vaccine if there's new virus variants
+ coming which we know happens all the time for flu.
+ Other applications that are really sort of,
+ there's going to be a lot of exciting findings
+ I think coming out and that's already started
+ is in terms of therapeutic cancer vaccines.
+ So those are not preventative but therapeutic vaccines
+ and they can either be done in a personalized manner
+ or in a more general manner.
+ Cancer is of course a very difficult disease
+ and there's in fact many, many different diseases
+ but cancer vaccines might very well benefit
+ from this platform.
+ And thirdly, there is many experiments
+ and actually already clinical trials going on
+ to deliver therapeutic proteins
+ and that can be replacing a defective enzyme
+ or you can be introducing an immunomodulatory protein.
+ So in that sense, there is quite a lot of work
+ that we will see I think apply to a variety of diseases.
+ So for the second part of your question, long COVID,
+ well first of all vaccination prevents you
+ from getting long COVID.
+ Then long COVID is a spectrum of different diseases
+ with ranging from the myocarditis
+ that is usually much more prevalent
+ if you get the COVID infection than from the vaccination
+ and it's also usually more severe.
+ Two long COVID that is something we still don't understand
+ the physiology of and there is quite a lot of research
+ ongoing on that.
+ - I'll show it.
+ - I'll just let the bell ring me.
+ - Yes, I'd like to ask you Thomas
+ about Catalina Caricos personal circumstances.
+ You said that she had to leave her job
+ and could you just give me some more details
+ about what happened to her and what the price means now?
+ - I should say that I can only convey
+ and she essentially only told me
+ what she has been telling in other interviews
+ and she's been explaining that her position,
+ she never had a tenured position
+ at University of Pennsylvania in 2013.
+ It appeared from what she's saying
+ that it was hard to continue under those circumstances.
+ She got the very senior position as vice president
+ in a company, BioNTech that later went on
+ to produce one of the, make one of the vaccines.
+ So she was not out of job in that way
+ but away from her family.
+ She never received an R01,
+ from NIH, which is a clear sign that she struggled and didn't get recognition for the importance
+ of her vision.
+ Because what was clear was that this is an extraordinary and unusual scientist who was
+ very passionate about this idea of mRNA and using it therapeutically.
+ And she resisted and attempted to sort of go away from that path and do something maybe
+ easier and maybe tell something about the founding situation, also being a female and
+ being a foreigner and so forth.
+ I'm sure it didn't make things easy.
+ She has not been complaining.
+ She has also explained how happy she's been.
+ And she did do, she was making progress through the years.
+ So it was not that she was inactive.
+ But she didn't get strong support, not the tenure and the support to build up a big group.
+ Instead of course she found very fruitful collaborations on the way.
+ Yes.
+ Is there anything more?
+ I know several -- no, I didn't see that.
+ So okay.
+ So I think then I know several are eager to have interviews.
+ So I think we'll close this part of the press conference right now.
+ Thank you so much for coming.
+ And apologies for the short delay in the beginning.
+ Thank you.
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
+ [ Inaudible ]
